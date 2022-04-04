@@ -27,7 +27,6 @@ include:
 • collapsing categories
 • creating new categories or binning
 • feature engineering or feature extraction
-You may wish to consider using the dplyr, lubridate, and/or forcats packages, among others,
-to help you manage this process.
+some utilized packages the dplyr, lubridate, and/or forcats packages, among others to help you manage this process.
 - Modelling - OLS model, robust regression, lasso, ridge
 - Model Performance 
